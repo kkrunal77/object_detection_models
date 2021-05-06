@@ -48,7 +48,7 @@ enum34==1.1.6
 filelock==3.0.10
 filemagic==1.6
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 funcsigs==1.0.2
 future==0.17.1
 gapic-google-cloud-datastore-v1==0.90.4
