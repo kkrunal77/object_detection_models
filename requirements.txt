@@ -191,7 +191,7 @@ pydot==1.4.1
 pyelftools==0.25
 Pygments==2.3.0
 PyHamcrest==1.9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pymongo==3.9.0
 PyMuPDF==1.14.16
 pyOpenSSL==19.0.0
